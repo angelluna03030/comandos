@@ -53,3 +53,5 @@ comando | archivo |  archivo 2 | carpeta donde quiero pergar
 * => con esto le digo que tome todo los archivos y carpeta
 ----------------------------------------------------------------
 text*=> aqui estos diciente que todos los archivos y carpeta que comienzen con "text" me los tome 
+----------------------------------------------------------------
+*.txt => aqui le esto diciente que todo los archivos de tipo "txt" me lo tiene que mover. 
