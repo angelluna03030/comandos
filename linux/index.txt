@@ -49,3 +49,7 @@ comando | archivo |  archivo 2 | carpeta donde quiero pergar
     |       |            |                      |
     v       v            v                      v
 -> cp     texto.txt  texto2.txt             carpeta 
+----------------------------------------------------------------
+* => con esto le digo que tome todo los archivos y carpeta
+----------------------------------------------------------------
+text*=> aqui estos diciente que todos los archivos y carpeta que comienzen con "text" me los tome 
