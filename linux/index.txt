@@ -32,5 +32,20 @@ comando | archivo | nuevo nombre
 ----------------------------------------------------------------
 cat => sirve para ver la informacion del archivo 
 ----------------------------------------------------------------
-
-
+cp => sirve para copiar informacion del archivo
+comando | archivo | carpeta donde quiero pergar 
+    |       |            |
+    v       v            v
+-> cp     texto.txt   carpeta 
+----------------------------------------------------------------
+cp => tambien para copiar informacion de carpetas, pero se tiene que hacr con "-r"
+comando | instrucción | archivo | carpeta donde quiero pergar 
+    |       |              |           |
+    v       v              v           v
+-> cp      -r           carpeta_1   carpeta_2 
+----------------------------------------------------------------
+cp => tambien para copiar muchos archivos 
+comando | archivo |  archivo 2 | carpeta donde quiero pergar 
+    |       |            |                      |
+    v       v            v                      v
+-> cp     texto.txt  texto2.txt             carpeta 
