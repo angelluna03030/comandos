@@ -15,3 +15,9 @@ comando | archivo | carpeta
 -> mv     texto.txt   carpeta 
 
 
+mv=> tambien sirve para renombrar archivos o carpetas 
+comando | archivo | nuevo nombre  
+    |       |
+    v       v
+-> mv     texto.txt   texto2.txt
+
