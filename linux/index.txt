@@ -4,3 +4,4 @@ cd .. /atra_carpeta/ => aqui le estoy indicando que se devuelva y que entre a lo
 mkdir "mis fotos"=> aqui le estoy indicando que eso es una sola carpeta y no dos distintas. 
 history => me muestra el historial de comandos que he hecho. 
 !45 => le digo que esa es la instrucion que tiene que volver a ejecutar
+mkdir -p fotos/imagen => cuando estoy creando una carpeta dentro de otra y la anterio no exite podemos utilizar etse comando para crear las dos carpeta 
