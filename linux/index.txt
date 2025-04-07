@@ -1,1 +1,4 @@
 pwd => para saber en que carpeta estoy 
+mkdir => para crear una carpeta 
+cd .. /atra_carpeta/ => aqui le estoy indicando que se devuelva y que entre a lo troa carpeta.
+mkdir "mis fotos"=> aqui le estoy indicando que eso es una sola carpeta y no dos. 
