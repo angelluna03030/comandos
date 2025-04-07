@@ -29,4 +29,8 @@ comando | archivo | nuevo nombre
     |       |
     v       v
 -> mv     texto.txt   texto2.txt
+----------------------------------------------------------------
+cat => sirve para ver la informacion del archivo 
+----------------------------------------------------------------
+
 
