@@ -121,5 +121,15 @@ comado | permiso | archivo
    |        |         |
    v        v         v
 chmod      +r     text.txt
-
-
+-----------------------------------------------------------------
+apt-get update => actuliza todo 
+-----------------------------------------------------------------
+apt-get install  [nombre de lo quiero instalar]=> puedo descargar lo que yo quiera
+-----------------------------------------------------------------
+apt-cache search [nombre de lo que busco]=> me muestra lo que tengo instalado 
+-----------------------------------------------------------------
+apt-get remove  [nombre de lo quiero eliminar]=> puedo eliminar los paquetes
+-----------------------------------------------------------------
+aptitude search  [nombre de lo que busco] => me dice el estado del paquete 
+-----------------------------------------------------------------
+apt-get purge  [nombre de lo quiero eliminar]=> puedo eliminar los paquetes y no deja rastro de nada de el paquete 
