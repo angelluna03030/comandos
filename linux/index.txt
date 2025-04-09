@@ -101,5 +101,25 @@ CAMBIO DE USUARIOS
 sudo fux 
              => con esto podemos cambiar a los grupos de usuairo.
 CONTRASEÑA:
-
 -----------------------------------------------------------------
+
+PERMISOS EN CARPETAS 
+- => es un permiso que no esta consedido
+-------------------------
+r => permiso de lectura
+-------------------------
+w => permiso escritura 
+-------------------------
+x => ejecutar el fichero 
+-------------------------
+d => es una carpeta 
+
+añadir permisos 
+
+
+comado | permiso | archivo
+   |        |         |
+   v        v         v
+chmod      +r     text.txt
+
+
