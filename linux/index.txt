@@ -79,3 +79,27 @@ text3Naciste.cat
 text6.pip
 text4.doc
 -----------------------------------------------------------------
+ADMINISTRADORES
+LINUX
+sudo + instrucción 
+CONTRASEÑA: 
+
+
+GRUPOS DE USUARIOS 
+
+whoami => me dice que usuario soy 
+---------------------------------
+
+gruops => me dice que grupo pertenesco 
+
+--------------------------------
+id => me dice los grupos y usuario que soy yo
+
+
+CAMBIO DE USUARIOS
+
+sudo fux 
+             => con esto podemos cambiar a los grupos de usuairo.
+CONTRASEÑA:
+
+-----------------------------------------------------------------
